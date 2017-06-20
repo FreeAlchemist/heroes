@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Создано Microsoft Visio 11.0, Экспорт SVG, версия 1.0 blast.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.97517in" height="1.97911in"
+		viewBox="0 0 142.212 142.496" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad40-4);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:url(#grad40-8);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:url(#grad40-12);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st4 {fill:url(#grad40-16);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st5 {fill:url(#grad40-20);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st6 {fill:url(#grad40-27);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st7 {fill:url(#grad40-31);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st8 {fill:#e18013;fill-opacity:0.4;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<radialGradient id="grad40-4" v:fillPattern="40" v:foreground="#ffff00" v:background="#c00000" cx="0.5" cy="0.5" r="0.5">
+			<stop offset="0" style="stop-color:#ffff00;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#c00000;stop-opacity:1"/>
+		</radialGradient>
+		<radialGradient id="grad40-8" v:fillPattern="40" v:foreground="#ffff8c" v:foregroundOpacity="0.55" v:background="#ffc000"
+				v:backgroundOpacity="0.55" cx="0.5" cy="0.5" r="0.5">
+			<stop offset="0" style="stop-color:#ffff8c;stop-opacity:0.55"/>
+			<stop offset="1" style="stop-color:#ffc000;stop-opacity:0.55"/>
+		</radialGradient>
+		<radialGradient id="grad40-12" v:fillPattern="40" v:foreground="#ffff8c" v:foregroundOpacity="0.3" v:background="#ffc000"
+				v:backgroundOpacity="0.3" cx="0.5" cy="0.5" r="0.5">
+			<stop offset="0" style="stop-color:#ffff8c;stop-opacity:0.3"/>
+			<stop offset="1" style="stop-color:#ffc000;stop-opacity:0.3"/>
+		</radialGradient>
+		<radialGradient id="grad40-16" v:fillPattern="40" v:foreground="#ffff8c" v:foregroundOpacity="0.4" v:background="#ffc000"
+				v:backgroundOpacity="0.4" cx="0.5" cy="0.5" r="0.5">
+			<stop offset="0" style="stop-color:#ffff8c;stop-opacity:0.4"/>
+			<stop offset="1" style="stop-color:#ffc000;stop-opacity:0.4"/>
+		</radialGradient>
+		<radialGradient id="grad40-20" v:fillPattern="40" v:foreground="#ffff8c" v:foregroundOpacity="0.8" v:background="#ffc000"
+				v:backgroundOpacity="0.8" cx="0.5" cy="0.5" r="0.5">
+			<stop offset="0" style="stop-color:#ffff8c;stop-opacity:0.8"/>
+			<stop offset="1" style="stop-color:#ffc000;stop-opacity:0.8"/>
+		</radialGradient>
+		<radialGradient id="grad40-27" v:fillPattern="40" v:foreground="#f2f2f2" v:foregroundOpacity="0.85" v:background="#ffff8c"
+				v:backgroundOpacity="0.85" cx="0.5" cy="0.5" r="0.5">
+			<stop offset="0" style="stop-color:#f2f2f2;stop-opacity:0.85"/>
+			<stop offset="1" style="stop-color:#ffff8c;stop-opacity:0.85"/>
+		</radialGradient>
+		<radialGradient id="grad40-31" v:fillPattern="40" v:foreground="#f2f2f2" v:foregroundOpacity="0.45" v:background="#ffff8c"
+				v:backgroundOpacity="0.45" cx="0.5" cy="0.5" r="0.5">
+			<stop offset="0" style="stop-color:#f2f2f2;stop-opacity:0.45"/>
+			<stop offset="1" style="stop-color:#ffff8c;stop-opacity:0.45"/>
+		</radialGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(0.24,-0.523465)">
+			<title>Круг.266</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M0 71.63 A70.8661 70.8661 0 0 1 141.73 71.63 A70.8661 70.8661 0 1 1 -0 71.63 Z" class="st1"/>
+		</g>
+		<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(0.24,-0.24)">
+			<title>Круг.267</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M0 71.63 A70.8661 70.8661 0 0 1 141.73 71.63 A70.8661 70.8661 0 1 1 -0 71.63 Z" class="st2"/>
+		</g>
+		<g id="shape3-9" v:mID="3" v:groupContext="shape" transform="translate(14.4132,-14.6967)">
+			<title>Круг.268</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M0 85.8 A56.6929 56.6929 0 0 1 113.39 85.8 A56.6929 56.6929 0 1 1 0 85.8 Z" class="st3"/>
+		</g>
+		<g id="shape4-13" v:mID="4" v:groupContext="shape" transform="translate(21.4998,-21.7833)">
+			<title>Круг.269</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M0 92.89 A49.6063 49.6063 0 1 1 99.21 92.89 A49.6063 49.6063 0 0 1 0 92.89 Z" class="st4"/>
+		</g>
+		<g id="shape5-17" v:mID="5" v:groupContext="shape" transform="translate(28.5865,-28.8699)">
+			<title>Круг.270</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M0 99.98 A42.5197 42.5197 0 0 1 85.04 99.98 A42.5197 42.5197 0 1 1 0 99.98 Z" class="st5"/>
+		</g>
+		<g id="shape6-21" v:mID="6" v:groupContext="shape" transform="translate(42.7597,-43.0431)">
+			<title>Круг.271</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M0 114.15 A28.3465 28.3465 0 0 1 56.69 114.15 A28.3465 28.3465 0 1 1 0 114.15 Z" class="st4"/>
+		</g>
+		<g id="shape7-24" v:mID="7" v:groupContext="shape" transform="translate(64.0195,-64.303)">
+			<title>Круг.294</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M0 135.41 A7.08661 7.08661 0 1 1 14.17 135.41 A7.08661 7.08661 0 1 1 -0 135.41 Z" class="st6"/>
+		</g>
+		<g id="shape8-28" v:mID="8" v:groupContext="shape" transform="translate(56.9329,-57.2164)">
+			<title>Круг.272</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M0 128.32 A14.1732 14.1732 0 1 1 28.35 128.32 A14.1732 14.1732 0 0 1 0 128.32 Z" class="st7"/>
+		</g>
+		<g id="shape10-32" v:mID="10" v:groupContext="shape" transform="translate(96.2632,-4.05492) rotate(20)">
+			<title>Треугольник.10</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M7.63 142.5 L3.54 85.8 L-0.55 142.5 L7.63 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape11-34" v:mID="11" v:groupContext="shape" transform="translate(10.1864,24.6749) rotate(-50)">
+			<title>Треугольник.11</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M7.63 142.5 L3.54 85.8 L-0.55 142.5 L7.63 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape12-36" v:mID="12" v:groupContext="shape" transform="translate(5.37351,112.824) rotate(-120)">
+			<title>Треугольник.12</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M3.91 142.5 L1.81 85.8 L-0.28 142.5 L3.91 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape13-38" v:mID="13" v:groupContext="shape" transform="translate(117.377,131.608) rotate(145.5)">
+			<title>Треугольник.13</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M7.63 142.5 L3.54 76.54 L-0.55 142.5 L7.63 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape14-40" v:mID="14" v:groupContext="shape" transform="translate(144.013,45.4185) rotate(73)">
+			<title>Треугольник.14</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M7.63 142.5 L3.54 83.92 L-0.55 142.5 L7.63 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape15-42" v:mID="15" v:groupContext="shape" transform="translate(148.097,92.7068) rotate(105.5)">
+			<title>Треугольник</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M7.63 142.5 L3.54 85.8 L-0.55 142.5 L7.63 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape16-44" v:mID="16" v:groupContext="shape" transform="translate(114.914,9.11637) rotate(35.5)">
+			<title>Треугольник.274</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M7.63 142.5 L3.54 85.8 L-0.55 142.5 L7.63 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape17-46" v:mID="17" v:groupContext="shape" transform="translate(27.357,9.48734) rotate(-34.5)">
+			<title>Треугольник.275</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M7.63 142.5 L3.54 85.8 L-0.55 142.5 L7.63 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape18-48" v:mID="18" v:groupContext="shape" transform="translate(16.7141,120.276) rotate(-129)">
+			<title>Треугольник.276</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M7.63 142.5 L3.54 76.54 L-0.55 142.5 L7.63 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape19-50" v:mID="19" v:groupContext="shape" transform="translate(104.527,146.66) rotate(158.5)">
+			<title>Треугольник.277</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M7.63 142.5 L3.54 83.92 L-0.55 142.5 L7.63 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape20-52" v:mID="20" v:groupContext="shape" transform="translate(148.354,77.0037) rotate(93.5)">
+			<title>Треугольник.279</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M7.63 142.5 L3.54 102.61 L-0.55 142.5 L7.63 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape21-54" v:mID="21" v:groupContext="shape" transform="translate(20.5448,13.5127) rotate(-41.4)">
+			<title>Треугольник.285</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M2.55 142.5 L1.18 120.96 L-0.18 142.5 L2.55 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape22-56" v:mID="22" v:groupContext="shape" transform="translate(127.532,13.2219) rotate(44)">
+			<title>Треугольник.286</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M3.49 142.5 L1.62 98.49 L-0.25 142.5 L3.49 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape23-58" v:mID="23" v:groupContext="shape" transform="translate(130.175,17.4561) rotate(49)">
+			<title>Треугольник.287</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M3.49 142.5 L1.62 114.14 L-0.25 142.5 L3.49 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape24-60" v:mID="24" v:groupContext="shape" transform="translate(87.8044,149.493) rotate(169.6)">
+			<title>Треугольник.288</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M5.79 142.5 L2.69 99.53 L-0.42 142.5 L5.79 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape25-62" v:mID="25" v:groupContext="shape" transform="translate(141.128,36.2321) rotate(64.6)">
+			<title>Треугольник.289</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M3.49 142.5 L1.62 114.14 L-0.25 142.5 L3.49 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape26-64" v:mID="26" v:groupContext="shape" transform="translate(132.235,28.562) rotate(56.5)">
+			<title>Треугольник.290</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M3.49 142.5 L1.62 119.05 L-0.25 142.5 L3.49 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape27-66" v:mID="27" v:groupContext="shape" transform="translate(68.5388,149.809) rotate(-177.2)">
+			<title>Треугольник.291</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M3.49 142.5 L1.62 114.14 L-0.25 142.5 L3.49 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape28-68" v:mID="28" v:groupContext="shape" transform="translate(32.1138,-0.449828) rotate(-26.9)">
+			<title>Треугольник.292</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M3.49 142.5 L1.62 119.05 L-0.25 142.5 L3.49 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape29-70" v:mID="29" v:groupContext="shape" transform="translate(-1.36291,38.9425) rotate(-64.3)">
+			<title>Треугольник.293</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M3.49 142.5 L1.62 103.45 L-0.25 142.5 L3.49 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape30-72" v:mID="30" v:groupContext="shape" transform="translate(44.9722,144.72) rotate(-159.3)">
+			<title>Треугольник.295</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M3.49 142.5 L1.62 100.99 L-0.25 142.5 L3.49 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape31-74" v:mID="31" v:groupContext="shape" transform="translate(140.397,102.276) rotate(115.9)">
+			<title>Треугольник.296</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M3.49 142.5 L1.62 109.52 L-0.25 142.5 L3.49 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape32-76" v:mID="32" v:groupContext="shape" transform="translate(132.378,114.111) rotate(125.6)">
+			<title>Треугольник.258</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M3.49 142.5 L1.62 119.05 L-0.25 142.5 L3.49 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape33-78" v:mID="33" v:groupContext="shape" transform="translate(-5.54054,101.61) rotate(-111)">
+			<title>Треугольник.259</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M3.49 142.5 L1.62 98.49 L-0.25 142.5 L3.49 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape34-80" v:mID="34" v:groupContext="shape" transform="translate(37.1197,139.168) rotate(-152.4)">
+			<title>Треугольник.260</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M3.49 142.5 L1.62 119.05 L-0.25 142.5 L3.49 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape35-82" v:mID="35" v:groupContext="shape" transform="translate(-8.47666,68.0787) rotate(-86.5)">
+			<title>Треугольник.261</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M4.37 142.5 L2.03 102.61 L-0.31 142.5 L4.37 142.5 Z" class="st8"/>
+		</g>
+		<g id="shape36-84" v:mID="36" v:groupContext="shape" transform="translate(63.8993,-4.80173) rotate(-3.4)">
+			<title>Треугольник.262</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M4.37 142.5 L2.03 102.61 L-0.31 142.5 L4.37 142.5 Z" class="st8"/>
+		</g>
+	</g>
+</svg>

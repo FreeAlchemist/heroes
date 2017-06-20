@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Создано Microsoft Visio 11.0, Экспорт SVG, версия 1.0 quad1.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.97519in" height="1.97517in"
+		viewBox="0 0 142.213 142.212" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:url(#grad40-6);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:url(#grad40-10);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st4 {fill:url(#grad38-14);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<radialGradient id="grad40-6" v:fillPattern="40" v:foreground="#000000" v:foregroundOpacity="0.45" v:background="#bfcfe2"
+				v:backgroundOpacity="0.45" cx="0.5" cy="0.5" r="0.5">
+			<stop offset="0" style="stop-color:#000000;stop-opacity:0.45"/>
+			<stop offset="1" style="stop-color:#bfcfe2;stop-opacity:0.45"/>
+		</radialGradient>
+		<radialGradient id="grad40-10" v:fillPattern="40" v:foreground="#0f233e" v:foregroundOpacity="0.2" v:background="#00b0f0"
+				v:backgroundOpacity="0.2" cx="0.5" cy="0.5" r="0.5">
+			<stop offset="0" style="stop-color:#0f233e;stop-opacity:0.2"/>
+			<stop offset="1" style="stop-color:#00b0f0;stop-opacity:0.2"/>
+		</radialGradient>
+		<radialGradient id="grad38-14" v:fillPattern="38" v:foreground="#ffce3c" v:foregroundOpacity="0.4" v:background="#ffc000"
+				v:backgroundOpacity="0.4" cx="0" cy="1" r="1">
+			<stop offset="0" style="stop-color:#ffce3c;stop-opacity:0.4"/>
+			<stop offset="1" style="stop-color:#ffc000;stop-opacity:0.4"/>
+		</radialGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(0.24,-0.240078)">
+			<title>Круг.1</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M0 71.35 A70.8661 70.8661 0 0 1 141.73 71.35 A70.8661 70.8661 0 1 1 -0 71.35 Z" class="st1"/>
+		</g>
+		<g id="shape3-3" v:mID="3" v:groupContext="shape" transform="translate(0.242044,-0.24)">
+			<title>Круг.5</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M0 70.95 A70.8662 70.8662 0 0 1 141.73 70.95 A70.8662 70.8662 0 1 1 -0 70.95 Z" class="st2"/>
+		</g>
+		<g id="shape4-7" v:mID="4" v:groupContext="shape" transform="translate(0.242044,-0.24)">
+			<title>Круг</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<path d="M0 70.95 A70.8662 70.8662 0 0 1 141.73 70.95 A70.8662 70.8662 0 1 1 -0 70.95 Z" class="st3"/>
+		</g>
+		<g id="shape7-11" v:mID="7" v:groupContext="shape" transform="translate(29.2971,-19.1261)">
+			<title>Лист.1</title>
+			<path d="M46.69 81.46 A27.2401 22.7001 90 0 1 61.95 95.5 A41.8115 34.8429 90 0 1 46.69 102.77 L46.69 81.46 ZM36.93 76.72
+						 A27.2401 27.2401 -180 0 0 17.47 91.29 A41.8115 34.8429 90 0 1 6.97 61.37 A41.8115 34.8429 90 0 1 12.78 38.25
+						 A41.8115 41.8115 -180 0 0 0 68.34 A41.8115 41.8115 -180 0 0 14.77 100.23 A27.2401 27.2401 -180 0 0 14.57
+						 103.52 A27.2401 27.2401 -180 0 0 22.9 123.13 A27.2401 22.7001 90 0 1 19.11 108.06 A27.2401 22.7001 90 0
+						 1 19.41 103.65 A41.8115 41.8115 -180 0 0 37.35 109.92 L41.75 142.21 L46.15 109.93 A41.8115 41.8115 -180
+						 0 0 64.21 103.65 A27.2401 22.7001 90 0 1 64.51 108.06 A27.2401 22.7001 90 0 1 60.73 123.13 A27.2401 27.2401
+						 -180 0 0 69.05 103.52 A27.2401 27.2401 -180 0 0 68.85 100.23 A41.8115 41.8115 -180 0 0 83.62 68.34 A41.8115
+						 41.8115 -180 0 0 70.84 38.25 A41.8115 34.8429 90 0 1 76.65 61.37 A41.8115 34.8429 90 0 1 66.15 91.29 A27.2401
+						 27.2401 -180 0 0 46.69 76.72 L46.69 70.44 L52.43 64.74 L31.19 64.74 L36.93 70.44 L36.93 76.72 ZM36.93 102.77
+						 A41.8115 34.8429 90 0 1 21.67 95.5 A27.2401 22.7001 90 0 1 36.93 81.46 L36.93 102.77 Z" class="st4"/>
+		</g>
+	</g>
+</svg>

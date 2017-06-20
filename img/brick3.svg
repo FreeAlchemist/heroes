@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Создано Microsoft Visio 11.0, Экспорт SVG, версия 1.0 brick3.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.36887in" height="2.36888in"
+		viewBox="0 0 170.559 170.56" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#923931;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.239999}
+		.st3 {fill:#f3e1cd}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.239999}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape2-1" v:mID="2" v:groupContext="shape" transform="translate(0.24,-0.240799)">
+			<title>Квадрат</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<rect x="0" y="0.480799" width="170.079" height="170.079" class="st1"/>
+		</g>
+		<g id="shape11-3" v:mID="11" v:groupContext="shape" transform="translate(141.971,-102.288)">
+			<title>Лист.53</title>
+			<rect x="0" y="156.386" width="28.3464" height="14.1732" class="st2"/>
+		</g>
+		<g id="shape13-5" v:mID="13" v:groupContext="shape" transform="translate(85.2783,-34.2564)">
+			<title>Лист.57</title>
+			<rect x="0" y="156.386" width="53.8582" height="14.1732" class="st2"/>
+		</g>
+		<g id="shape14-7" v:mID="14" v:groupContext="shape" transform="translate(141.971,-68.2722)">
+			<title>Лист.59</title>
+			<rect x="0" y="156.386" width="28.3464" height="14.1732" class="st2"/>
+		</g>
+		<g id="shape15-9" v:mID="15" v:groupContext="shape" transform="translate(141.971,-34.2564)">
+			<title>Лист.61</title>
+			<rect x="0" y="156.386" width="28.3464" height="14.1732" class="st2"/>
+		</g>
+		<g id="shape22-11" v:mID="22" v:groupContext="shape" transform="translate(113.625,-85.28)">
+			<title>Лист.71</title>
+			<rect x="0" y="156.386" width="53.8582" height="14.1732" class="st2"/>
+		</g>
+		<g id="shape24-13" v:mID="24" v:groupContext="shape" transform="translate(113.625,-51.2643)">
+			<title>Лист.73</title>
+			<rect x="0" y="156.386" width="53.8582" height="14.1732" class="st2"/>
+		</g>
+		<g id="shape25-15" v:mID="25" v:groupContext="shape" transform="translate(56.9319,-17.2487)">
+			<title>Лист.74</title>
+			<rect x="0" y="156.386" width="53.8582" height="14.1732" class="st2"/>
+		</g>
+		<g id="shape31-17" v:mID="31" v:groupContext="shape" transform="translate(28.5855,-0.240799)">
+			<title>Лист.85</title>
+			<rect x="0" y="156.386" width="53.8582" height="14.1732" class="st2"/>
+		</g>
+		<g id="shape32-19" v:mID="32" v:groupContext="shape" transform="translate(85.2783,-0.240799)">
+			<title>Лист.86</title>
+			<rect x="0" y="156.386" width="53.8582" height="14.1732" class="st2"/>
+		</g>
+		<g id="shape1-21" v:mID="1" v:groupContext="shape" transform="translate(26.3183,-0.239999)">
+			<title>Лист.1</title>
+			<path d="M85.04 68.51 L85.04 88.35 L112.82 88.35 L112.82 102.53 L84.33 102.53 L84.33 105.36 L84.47 105.36 L84.47 119.54
+						 L56.69 119.54 L56.69 136.54 L28.35 136.54 L28.35 153.55 L0 153.55 L0 170.56 L2.27 170.56 L2.27 156.39 L56.12
+						 156.39 L56.12 170.56 L58.96 170.56 L58.96 156.39 L112.82 156.39 L112.82 170.56 L114.8 170.56 L114.8 153.55
+						 L87.31 153.55 L87.31 139.38 L114.8 139.38 L141.16 139.38 L144 139.38 L144 136.54 L115.65 136.54 L115.65
+						 122.37 L144 122.37 L144 102.53 L115.65 102.53 L115.65 88.35 L144 88.35 L144 68.51 L115.65 68.51 L115.65
+						 54.34 L144 54.34 L144 51.5 L113.39 51.5 L113.39 68.51 L112.82 68.51 L85.04 68.51 L85.04 68.51 ZM30.61 153.55
+						 L30.61 139.38 L84.47 139.38 L84.47 153.55 L30.61 153.55 ZM87.31 119.54 L87.31 105.36 L141.16 105.36 L141.16
+						 119.54 L87.31 119.54 ZM87.31 85.52 L87.31 71.35 L141.16 71.35 L141.16 85.52 L87.31 85.52 ZM58.96 136.54
+						 L58.96 122.37 L112.82 122.37 L112.82 136.54 L58.96 136.54 Z" class="st3"/>
+			<path d="M85.04 68.51 L85.04 88.35 L112.82 88.35 L112.82 102.53 L84.33 102.53 L84.33 105.36 L84.47 105.36 L84.47 119.54
+						 L56.69 119.54 L56.69 136.54 L28.35 136.54 L28.35 153.55 L0 153.55 L0 170.56 L2.27 170.56 L2.27 156.39 L56.12
+						 156.39 L56.12 170.56 L58.96 170.56 L58.96 156.39 L112.82 156.39 L112.82 170.56 L114.8 170.56 L114.8 153.55
+						 L87.31 153.55 L87.31 139.38 L114.8 139.38 L141.16 139.38 L144 139.38 L144 136.54 L115.65 136.54 L115.65
+						 122.37 L144 122.37 L144 102.53 L115.65 102.53 L115.65 88.35 L144 88.35 L144 68.51 L115.65 68.51 L115.65
+						 54.34 L144 54.34 L144 51.5 L113.39 51.5 L113.39 68.51 L112.82 68.51 L85.04 68.51M30.61 153.55 L30.61 139.38
+						 L84.47 139.38 L84.47 153.55 L30.61 153.55M87.31 119.54 L87.31 105.36 L141.16 105.36 L141.16 119.54 L87.31
+						 119.54M87.31 85.52 L87.31 71.35 L141.16 71.35 L141.16 85.52 L87.31 85.52M58.96 136.54 L58.96 122.37 L112.82
+						 122.37 L112.82 136.54 L58.96 136.54" class="st4"/>
+		</g>
+	</g>
+</svg>

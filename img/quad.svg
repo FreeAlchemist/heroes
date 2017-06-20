@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Создано Microsoft Visio 11.0, Экспорт SVG, версия 1.0 quad.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="3.15655in" height="3.92244in"
+		viewBox="0 0 227.272 282.415" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad30-4);stroke:#ffc000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad30-4" v:fillPattern="30" v:foreground="#800000" v:background="#00b0f0" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#800000;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#00b0f0;stop-opacity:1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(0.25,-0.25)">
+			<title>Лист.1</title>
+			<path d="M126.61 117.66 A61.5591 73.8709 0 0 1 168 155.73 A94.4882 113.386 0 0 1 126.61 175.47 L126.61 117.66 ZM100.16
+						 104.82 A73.8709 73.8709 -180 0 0 47.38 144.33 A94.4882 113.386 0 0 1 18.9 63.2 A94.4882 113.386 0 0 1 34.66
+						 0.5 A113.386 113.386 -180 0 0 0 82.1 A113.386 113.386 -180 0 0 40.05 168.58 A73.8709 73.8709 -180 0 0 39.51
+						 177.49 A73.8709 73.8709 -180 0 0 62.1 230.66 A61.5591 73.8709 0 0 1 51.83 189.81 A61.5591 73.8709 0 0 1
+						 52.64 177.84 A113.386 113.386 -180 0 0 101.29 194.84 L113.22 282.42 L125.14 194.88 A113.386 113.386 -180
+						 0 0 174.13 177.84 A61.5591 73.8709 0 0 1 174.94 189.81 A61.5591 73.8709 0 0 1 164.68 230.66 A73.8709 73.8709
+						 -180 0 0 187.26 177.49 A73.8709 73.8709 -180 0 0 186.72 168.58 A113.386 113.386 -180 0 0 226.77 82.1 A113.386
+						 113.386 -180 0 0 192.11 0.5 A94.4882 113.386 0 0 1 207.87 63.2 A94.4882 113.386 0 0 1 179.39 144.33 A73.8709
+						 73.8709 -180 0 0 126.61 104.82 L126.61 87.78 L142.19 72.34 L84.58 72.34 L100.16 87.78 L100.16 104.82 ZM100.16
+						 175.47 A94.4882 113.386 0 0 1 58.77 155.73 A61.5591 73.8709 0 0 1 100.16 117.66 L100.16 175.47 Z"
+					class="st1"/>
+		</g>
+	</g>
+</svg>

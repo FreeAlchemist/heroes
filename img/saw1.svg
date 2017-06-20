@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Создано Microsoft Visio 11.0, Экспорт SVG, версия 1.0 saw1.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.55967in" height="1.58147in"
+		viewBox="0 0 112.297 113.866" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#dbeef3;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#92cddc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape2-1" v:mID="2" v:groupContext="shape" transform="translate(0.24,-0.24)">
+			<title>Лист.2</title>
+			<path d="M44.57 57.17 A11.3386 11.3386 0 1 1 67.25 57.17 A11.3386 11.3386 0 1 1 44.57 57.17 ZM35.01 4.17 A56.6929 56.6929
+						 -180 0 0 28.55 7.09 L26.05 31.03 L12.99 35.48 L8.96 24.26 A56.6929 56.6929 -180 0 0 1.26 39.48 A56.6929
+						 56.6929 -180 0 0 -0 43.93 L18.87 62.49 L12.99 78.86 L1.26 74.86 A56.6929 56.6929 -180 0 0 8.96 90.09 A56.6929
+						 56.6929 -180 0 0 9.82 91.25 L39.39 87.73 L47.93 101.91 L35.01 110.18 A56.6929 56.6929 -180 0 0 55.12 113.87
+						 L71.26 87.73 L83.58 89.21 L81.69 107.25 A56.6929 56.6929 -180 0 0 100.44 91.24 A56.6929 56.6929 -180 0 0
+						 101.28 90.09 L91.38 62.49 L96.79 57.17 L110.25 70.42 A56.6929 56.6929 -180 0 0 111.82 57.17 A56.6929 56.6929
+						 -180 0 0 110.25 43.93 A56.6929 56.6929 -180 0 0 108.99 39.48 L84.2 31.03 L83.58 25.13 L100.44 23.1 A56.6929
+						 56.6929 -180 0 0 81.69 7.09 A56.6929 56.6929 -180 0 0 75.24 4.17 L55.12 17.03 L47.93 12.43 L55.12 0.48 A56.6929
+						 56.6929 -180 0 0 35.01 4.17 Z" class="st1"/>
+		</g>
+		<g id="shape1-3" v:mID="1" v:groupContext="shape" transform="translate(1.22429,-1.62805) rotate(-3)">
+			<title>Лист.1</title>
+			<path d="M41.28 61.36 A10.5021 10.5021 0 1 1 62.29 61.36 A10.5021 10.5021 0 1 1 41.28 61.36 ZM32.43 12.26 A52.5106 52.5106
+						 -180 0 0 26.45 14.97 L24.13 37.14 L12.03 41.27 L8.3 30.87 A52.5106 52.5106 -180 0 0 1.17 44.97 A52.5106
+						 52.5106 -180 0 0 0 49.09 L17.48 66.28 L12.03 81.44 L1.17 77.74 A52.5106 52.5106 -180 0 0 8.3 91.84 A52.5106
+						 52.5106 -180 0 0 9.09 92.92 L36.49 89.65 L44.4 102.8 L32.43 110.45 A52.5106 52.5106 -180 0 0 51.06 113.87
+						 L66 89.65 L77.42 91.03 L75.67 107.74 A52.5106 52.5106 -180 0 0 93.03 92.91 A52.5106 52.5106 -180 0 0 93.81
+						 91.84 L84.64 66.28 L89.65 61.36 L102.11 73.62 A52.5106 52.5106 -180 0 0 103.57 61.36 A52.5106 52.5106 -180
+						 0 0 102.11 49.09 A52.5106 52.5106 -180 0 0 100.95 44.97 L77.99 37.14 L77.42 31.68 L93.03 29.8 A52.5106 52.5106
+						 -180 0 0 75.67 14.97 A52.5106 52.5106 -180 0 0 69.69 12.26 L51.06 24.17 L44.4 19.91 L51.06 8.84 A52.5106
+						 52.5106 -180 0 0 32.43 12.26 Z" class="st2"/>
+		</g>
+	</g>
+</svg>

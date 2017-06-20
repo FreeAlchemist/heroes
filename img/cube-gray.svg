@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Создано Microsoft Visio 11.0, Экспорт SVG, версия 1.0 cube-gray.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.164147in" height="0.164465in"
+		viewBox="0 0 11.8186 11.8415" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad37-4);stroke:#777777;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:url(#grad38-8);stroke:#777777;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:url(#grad37-12)}
+		.st4 {stroke:#777777;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<radialGradient id="grad37-4" v:fillPattern="37" v:foreground="#cdcdcd" v:background="#969696" cx="1" cy="0" r="1">
+			<stop offset="0" style="stop-color:#cdcdcd;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#969696;stop-opacity:1"/>
+		</radialGradient>
+		<radialGradient id="grad38-8" v:fillPattern="38" v:foreground="#0e1218" v:background="#808080" cx="0" cy="1" r="1">
+			<stop offset="0" style="stop-color:#0e1218;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#808080;stop-opacity:1"/>
+		</radialGradient>
+		<radialGradient id="grad37-12" v:fillPattern="37" v:foreground="#ffffff" v:background="#c0c0c0" cx="1" cy="0" r="1">
+			<stop offset="0" style="stop-color:#ffffff;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#c0c0c0;stop-opacity:1"/>
+		</radialGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape4-1" v:mID="4" v:groupContext="shape" transform="translate(5.90929,-0.24)">
+			<title>Лист.4</title>
+			<path d="M5.67 9.01 L5.67 3.34 L0 6.17 L0 11.84 L5.67 9.01 Z" class="st1"/>
+		</g>
+		<g id="shape5-5" v:mID="5" v:groupContext="shape" transform="translate(0.24,-0.24)">
+			<title>Лист.5</title>
+			<path d="M0 9.01 L5.67 11.84 L5.67 6.17 L0 3.34 L0 9.01 Z" class="st2"/>
+		</g>
+		<g id="shape6-9" v:mID="6" v:groupContext="shape" transform="translate(0.24,-5.90929)">
+			<title>Лист.6</title>
+			<path d="M5.66 11.84 L5.73 11.76 L5.66 11.84 ZM11.34 8.96 L5.73 6.15 L0 8.96 L5.66 11.84 L11.34 9.01 L11.34 8.96 Z"
+					class="st3"/>
+			<path d="M5.66 11.84 L5.73 11.76M11.34 8.96 L5.73 6.15 L0 8.96 L5.66 11.84 L11.34 9.01" class="st4"/>
+		</g>
+	</g>
+</svg>
